@@ -1,0 +1,17 @@
+[test]
+	bool = true
+	bool = kskdsk
+[tert]
+	bool = false
+[ena]
+	dio = true
+[dio]
+	sss = enanen
+[tria]
+	int = 443
+[http "www.ena.com"]
+	enabled = true
+[http "www.dio.com"]
+	enabled = false
+[http "www.tria.com"]
+	enabled = true
